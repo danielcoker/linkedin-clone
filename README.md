@@ -1,1 +1,1 @@
-# linkedin-clone
+# LinkedIn Clone
